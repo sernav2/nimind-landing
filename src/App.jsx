@@ -113,7 +113,7 @@ function App() {
             </div>
           </div>
           <div className="md:w-1/2 p-4 animate__animated animate__fadeInRight">
-            <img src={danceImage} alt="Clase de baile y meditación" className="rounded-lg shadow-2xl w-full"/>
+            <img src={danceImage} alt="Clase de baile y meditación" className="rounded-lg shadow-2xl w-full transition duration-300 transform hover:scale-105 hover:shadow-2xl"/>
           </div>
         </div>
       </section>
@@ -126,17 +126,17 @@ function App() {
           <h2 className="text-4xl font-bold text-center text-gray-800 mb-12">Beneficios de la Meditación Guiada</h2>
           <div className="grid md:grid-cols-3 gap-8">
             <div className="text-center">
-              <img src={benefitImage1} alt="Beneficio 1" className="rounded-lg shadow-lg mx-auto h-64 w-full object-cover"/>
+              <img src={benefitImage1} alt="Beneficio 1" className="rounded-lg shadow-lg mx-auto h-64 w-full object-cover transition duration-300 transform hover:scale-105 hover:shadow-2xl"/>
               <h3 className="text-2xl font-bold my-4">Reduce el Estrés</h3>
               <p className="text-gray-600">Encuentra la calma y reduce la ansiedad del día a día con prácticas de mindfulness y relajación profunda.</p>
             </div>
             <div className="text-center">
-              <img src={benefitImage2} alt="Beneficio 2" className="rounded-lg shadow-lg mx-auto h-64 w-full object-cover"/>
+              <img src={benefitImage2} alt="Beneficio 2" className="rounded-lg shadow-lg mx-auto h-64 w-full object-cover transition duration-300 transform hover:scale-105 hover:shadow-2xl"/>
               <h3 className="text-2xl font-bold my-4">Mejora el Enfoque</h3>
               <p className="text-gray-600">Entrena tu mente para concentrarte mejor y aumentar tu productividad en todas las áreas de tu vida.</p>
             </div>
             <div className="text-center">
-              <img src={benefitImage3} alt="Beneficio 3" className="rounded-lg shadow-lg mx-auto h-64 w-full object-cover"/>
+              <img src={benefitImage3} alt="Beneficio 3" className="rounded-lg shadow-lg mx-auto h-64 w-full object-cover transition duration-300 transform hover:scale-105 hover:shadow-2xl"/>
               <h3 className="text-2xl font-bold my-4">Promueve el Bienestar</h3>
               <p className="text-gray-600">Cultiva una sensación de paz interior, equilibrio emocional y felicidad duradera a través de la meditación.</p>
             </div>
