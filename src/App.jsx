@@ -92,17 +92,16 @@ function App() {
       <section id="clases" className="py-20 bg-gray-50">
         <div className="container mx-auto px-6 flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 p-4 animate__animated animate__fadeInLeft">
-            <h2 className="text-3xl font-bold text-gray-800 mb-3">Baile y meditación: energía y paz en un solo día</h2>
-            <h3 className="text-xl font-semibold text-purple-600 mb-2">Muévete, respira y renueva tu energía</h3>
-            <p className="text-lg text-gray-700 mb-4">Baila para liberar, medita para transformar.</p>
+            <h2 className="text-3xl font-bold text-gray-800 mb-3">Nimind y Kaizen Dance: Una colaboración para meditar y bailar juntos</h2>
+            <h3 className="text-xl font-semibold text-purple-600 mb-2">Disfruta de meditaciones guiadas para renovar tu energía y clases de baile para liberar tu cuerpo, todo en un solo espacio los domingos.</h3>
             <div className="space-y-3 text-gray-600">
               <p><strong>📍 Punto de reunión:</strong> Quiosco cercano al planetario</p>
               <p><strong>📅 Domingos:</strong> 12:00 PM</p>
               <p><strong>💰 Costo:</strong> $100 pesos</p>
             </div>
-            <p className="mt-4 text-gray-700">Aprende los pasos básicos de salsa, bachata y cumbia con un enfoque práctico para que puedas salir a bailar con confianza, y complementa la experiencia con una meditación guiada para recargar tu mente y encontrar calma interior.</p>
+            <p className="mt-4 text-gray-700">En colaboración con Kaizen Dance, donde impartirán clases prácticas de salsa, bachata y cumbia para que puedas bailar con confianza, Nimind te guía en una meditación especial para recargar tu mente, encontrar paz interior y complementar la experiencia del baile con calma y energía renovada.</p>
             <div className="mt-6">
-              <h4 className="font-bold text-lg">¡Confirma tu asistencia y ven a divertirte!</h4>
+              <h4 className="font-bold text-lg">¡Confirma tu asistencia y vive una experiencia de bienestar y diversión!</h4>
               <a 
                 href="https://chat.whatsapp.com/E8JUBtxp4g0Ky5lZUiX3xg?mode=ac_t"
                 target="_blank"
